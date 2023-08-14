@@ -2,6 +2,7 @@
 
 # ⛰ tourism-website
 ADVENTURE - A simple website of a tourism agency for tourists.
+To view this website, click [here](https://lxnar-dev.github.io/Tourism-Website/)
 
 ## 📋 About
  -  This is a simple website
